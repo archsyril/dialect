@@ -1,2 +1,4 @@
 # dialect
-one day of bored programming later...
+
+## How to use
+i'll do this later maybe lol
