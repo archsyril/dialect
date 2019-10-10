@@ -1,0 +1,27 @@
+@vowel
+a=4
+e=3, o=3, u=3 # commas can be used to put multiple entries on the same line
+i=2
+y=1
+oi=1 # entries can be as long as you want
+zero=0 # entries with zero weight
+@consonant
+b=6; c=6 
+d=6
+f=6
+g=6
+h=7
+j=5
+k=6
+l=8
+m=8
+n=8
+p=6
+q=2
+r=7
+s=7
+t=7
+w=3
+x=2
+y=2
+z=1
